@@ -238,8 +238,9 @@ main > :last-child {margin-bottom: 0 !important;}
   padding-bottom: var(--space-xxl);
   padding-left: var(--space-margin-desktop);
   padding-right: var(--space-margin-desktop);
-  background-color: var(--color-surface-container-high);
   background-image: url('../imagenes/banner.jpg');
+    background-color: var(--color-surface-container-high);
+
   background-size: cover;
   background-position: center;
 }
